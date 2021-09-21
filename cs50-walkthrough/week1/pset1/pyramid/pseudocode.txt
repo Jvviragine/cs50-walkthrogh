@@ -1,0 +1,7 @@
+SUPER MARIO PYRAMID
+
+1- Get Height from the User(1...8)
+2- Use a For loop that manages the Height
+    3- For Loop to create the Spaces
+    4- For Loop tp create #s
+        

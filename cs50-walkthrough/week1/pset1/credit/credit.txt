@@ -1,0 +1,16 @@
+LUHN"S ALGORITHM with 4003600000000014
+
+1- 1*2 + 0*2 + 0*2 + 0*2 + 0*2 + 6*2 + 0*2 + 4*2        Go to every Second Last digit and Multiply by 2
+1- 2 + 0 + 0 + 0 + 0 + 12 + 0 + 8       Add Products Digits
+1- 13 (Add product's digits)        Sum of Products Digits
+
+2- 13 + 4 + 0 + 0 + 0 + 0 + 0 + 3 + 0 = 20      Add the Sum of Products Digits to the sum of the Digits that haven't been used yet
+
+3- 20%10 = 0 -> Valid Credit Card       If the Total Sum finishes with 0, the Credit Card is Valid
+
+
+CREDIT CARD STANDARDS 
+    *American Express - 15 Digits, starts with 34 or 37
+    *MasterCard - 16 Digits, starts with 51, 52, 53, 54, or 55
+    *VISA 13 or 16 digits, starts with 4
+
