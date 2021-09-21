@@ -7,7 +7,7 @@ No worries, we got you covered with complete solutions!
 
 Here it's how to navigate into the different folders:
 * Lecture - Examples done in class 
-* Labs - All the homeowrk problems
+* Labs - All the homework problems
 * Play - Additional examples and problems related to the topics learned in class
 
 Keep calm and have fun!
