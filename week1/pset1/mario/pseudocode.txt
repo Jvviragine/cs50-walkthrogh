@@ -1,5 +1,0 @@
-MARIO DOUBLE PYRAMID
-
-1- Create Right Alligned Pyramid
-2- Give 2 Spaces
-3- Create Left Alligned Pyramid
